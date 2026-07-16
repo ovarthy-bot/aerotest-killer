@@ -1,0 +1,7 @@
+.word-question{margin:24px 0 18px;padding:28px 22px;border-left:4px solid var(--purple)}
+.word-question .word{font-size:38px;color:#fff;margin:32px 0 8px}
+.word-choice{min-height:74px;font-size:15px}
+.word-explanation{background:#082817;border:1px solid #2d6b3e;color:#d9ffe2}
+.word-explanation b{color:#61dc7c}
+.wrong-category:disabled{opacity:.55}
+.wrong-category b{color:var(--cyan);font-size:20px}
