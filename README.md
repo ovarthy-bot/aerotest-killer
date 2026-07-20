@@ -1,6 +1,14 @@
-# Aerotest Killer – İlk Mobil Sürüm
+# Aerotest Killer – Mobil Sürüm 2.0
 
 Uçak bakım teknisyenleri için SHGM dil sınavına hazırlık amaçlı, mobil öncelikli PWA. Android ve iPhone'da tarayıcıdan çalışır; ana ekrana eklenebilir ve ilk açılıştan sonra çevrimdışı kullanılabilir.
+
+## Sürüm 2.0 yenilikleri
+
+- 100 teknik havacılık kelimesi; her cevapta İngilizce örnek ve Türkçe çevirisi.
+- Kelime Çalışması ana ekranında ve İstatistikler bölümünde ayrı **Yanlış Kelimelerim** tekrarı.
+- 180 soruluk dengeli bank: Yapı, Çeviri, Kelime, Okuma, Cümle Tamamlama ve Boşluk Doldurma için 30'ar soru.
+- Konulara Yönelik ekranda **Karışık** veya **Seçerek** çalışma modu.
+- Yanlış yanıtta doğru cevabın açıklaması, seçimin neden yanlış olduğu ve öğrenme ipucu.
 
 ## Çalıştırma
 
